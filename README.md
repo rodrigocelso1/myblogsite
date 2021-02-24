@@ -1,5 +1,5 @@
 # Do you want to know more about me?
 
-Access:
+Access my portfolio:
 
-https://rodigocelso.wixsite.com/mywebsite
+https://rodigocelso.wixsite.com/portfolio
